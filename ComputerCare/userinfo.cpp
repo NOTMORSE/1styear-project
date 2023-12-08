@@ -64,7 +64,7 @@ void k1payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -114,7 +114,7 @@ void k2payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -164,7 +164,7 @@ void k3payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -214,7 +214,7 @@ void k4payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -264,7 +264,7 @@ void k5payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -317,7 +317,7 @@ void m1payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -367,7 +367,7 @@ void m2payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -417,7 +417,7 @@ void m3payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -467,7 +467,7 @@ void m4payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -517,7 +517,7 @@ void m5payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -570,7 +570,7 @@ void t1payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -620,7 +620,7 @@ void t2payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -670,7 +670,7 @@ void t3payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -720,7 +720,7 @@ void t4payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -770,7 +770,7 @@ void t5payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -823,7 +823,7 @@ void l1payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -873,7 +873,7 @@ void l2payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -923,7 +923,7 @@ void l3payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -973,7 +973,7 @@ void l4payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1023,7 +1023,7 @@ void l5payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1076,7 +1076,7 @@ void c1payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1126,7 +1126,7 @@ void c2payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1176,7 +1176,7 @@ void c3payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1226,7 +1226,7 @@ void c4payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {
@@ -1276,7 +1276,7 @@ void c5payment() {
             cin >> choice;
 
             if (choice == 2) {
-                cout << "\nPlease try again";
+                cout << "\nPlease try again\n";
                 continue;
             }
             else {

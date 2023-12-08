@@ -250,7 +250,10 @@ void card() {
             cout << "Thank you for shopping with us!!";
             exit (0);
         }
+
         return 0;
+
+
         
     }
        
@@ -394,7 +397,9 @@ void card() {
             cout << "Thank you for shopping with us!!";
             exit(0);
         }
+
         return 0;
+
 
     }
 
@@ -540,6 +545,7 @@ void card() {
         }
 
         return 0;
+
     }
 
         //LAPTOP
@@ -684,6 +690,7 @@ void card() {
         }
 
         return 0;
+
     }
 
     //COMPUTER
@@ -828,6 +835,7 @@ void card() {
         }
 
         return 0;
+
     }
 
 
