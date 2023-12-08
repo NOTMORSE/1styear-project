@@ -538,6 +538,7 @@ void card() {
             cout << "Thank you for shopping with us!!";
             exit(0);
         }
+
         return 0;
     }
 
@@ -681,6 +682,7 @@ void card() {
             cout << "Thank you for shopping with us!!";
             exit(0);
         }
+
         return 0;
     }
 
@@ -824,6 +826,7 @@ void card() {
             cout << "Thank you for shopping with us!!";
             exit(0);
         }
+
         return 0;
     }
 
