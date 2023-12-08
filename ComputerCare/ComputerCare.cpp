@@ -79,6 +79,7 @@ void mainpage() {
         int randomNum = min + rand() % (max - min + 1);
       
         cout << "Thank you for reporting the defective product. Your reference number is " << randomNum << ".\n";
+            exit(0);
         exit(0);
     }
     else {
