@@ -80,7 +80,6 @@ void mainpage() {
       
         cout << "Thank you for reporting the defective product. Your reference number is " << randomNum << ".\n";
             exit(0);
-        exit(0);
     }
     else {
         cout << "Thank you for visiting our store.";
